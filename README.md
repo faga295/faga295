@@ -2,7 +2,7 @@
 
 * 🍅 I'm faga, an undergraduate @xdu
 
-* 🌱 I'm interested in Vue,React,Typescript, Rust, Vite
+* 🌱 Ask me about Vue,React,Typescript, Rust, Vite
 
 * 🐌 I'm currently learning Rust(but slowly)
 
