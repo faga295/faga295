@@ -6,4 +6,4 @@
 
 *  :desktop_computer: Worked at Bytedance, now interning at Alibaba Taobao.
 
-* 📫 how to reach me: lzc295592@163.com
+* 📫 How to reach me: lzc295592@163.com
