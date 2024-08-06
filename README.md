@@ -4,6 +4,6 @@
 
 * 🚀 Ask me about Vue, React,Typescript, Rust, Vite
 
-*  :desktop_computer: Interned at Bytedance and Alibaba Taobao.
+*  :desktop_computer: Focusing on webpack native css support
 
 * 📫 How to reach me: lzc295592@163.com
