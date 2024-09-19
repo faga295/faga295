@@ -1,6 +1,6 @@
 ### 👋 Hi there 
 
-* 🍅 I'm faga, a front-end engineer, graduate from @xdu
+* 🍅 I'm faga, a front-end engineer
 
 * 🚀 Ask me about Vue, React,Typescript, Rust, Vite
 
